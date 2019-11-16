@@ -16,5 +16,5 @@
         - String 문자열 저장 등등  
         - StringBuffer, StringBuilder 문자열을 저장, 내부 문자열을 조작  
         - Math 수학 함수  
-        - Wrapper (Byte, Short, Character, Integer, Float, Double, Boolean, Long)  
+        - Wrapper (Byte, Short, Character, Integer, Float, Double, Boolean, Long)   
         
