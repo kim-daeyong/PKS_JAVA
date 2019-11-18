@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a598a2c-e1b9-4251-a0f0-00e948c1060f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/winter/week1/day3/HashCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/winter/week1/day3/Tostring3_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/winter/week1/day3/Clone3_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/winter/week1/day3/Finalize3_5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WebBoard/src/main/java/my/example/webBoard/Board.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../WebBoard/src/main/java/my/example/webBoard/BoardDao.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../WebBoard/src/main/java/my/example/webBoard/BoardDaoImpl.java" beforeDir="false" />
@@ -314,7 +314,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/winter/week1/day3/HashCode.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -324,11 +324,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/winter/week1/day3/Tostring3_3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/winter/week1/day3/Clone3_4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/winter/week1/day3/Finalize3_5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -361,6 +379,8 @@
         <option value="$PROJECT_DIR$/src/main/java/summer/week1/day1/JavaAPI.md" />
         <option value="$PROJECT_DIR$/src/main/java/winter/week1/day3/HashCode.java" />
         <option value="$PROJECT_DIR$/src/main/java/winter/week1/day3/Tostring3_3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/winter/week1/day3/Clone3_4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/winter/week1/day3/Finalize3_5.java" />
       </list>
     </option>
   </component>
@@ -382,8 +402,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -445,7 +465,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574082382105" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574083447028" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -484,17 +504,19 @@
       <workItem from="1573817364221" duration="89000" />
       <workItem from="1573817492649" duration="2757000" />
       <workItem from="1573917252102" duration="1231000" />
-      <workItem from="1573997147641" duration="3410000" />
+      <workItem from="1573997147641" duration="3491000" />
+      <workItem from="1574083411834" duration="750000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8087000" />
+    <option name="totallyTimeSpent" value="8918000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26171243" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -638,6 +660,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/winter/week1/day3/Clone3_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/winter/week1/day3/Finalize3_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
         </state>
       </provider>
     </entry>
