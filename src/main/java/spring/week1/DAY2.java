@@ -19,12 +19,11 @@ public class DAY2 {
     public Member getMember(){
       Member cloned = null;
       try{
-
         //clone() 메소드의 리턴 타입은 Object이므로 Member 타입으로 캐스팅 해야함
         cloned = (Member)clone();
       }catch(CloneNotSupportedException e){
-        return cloned;
       }
+      return cloned;
     }
   }
 }
