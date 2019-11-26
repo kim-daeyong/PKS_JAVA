@@ -5,7 +5,14 @@ public class DAY2 {
   public static void main(String[] args) {
     //원본 객체 생성
     Member original = new Member("blue", "홍길동", "12345", 25, true);
+    //복제 객체를 얻은 후에 패스워드 변경
+    Member cloned = original.getMember();
+    cloned.password = "1111";
 
+    System.out.println("복제 객체의 비밀번");
+    System.out.println(cloned.password);
+    System.out.println("원본 객체의 비밀번호");
+    System.out.println(original.password);
   }
   public static class Member implements Cloneable{
     public String id;
