@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="pks_java" />
         <module name="pks" />
+        <module name="PKS_JAVA" />
       </profile>
     </annotationProcessing>
   </component>
