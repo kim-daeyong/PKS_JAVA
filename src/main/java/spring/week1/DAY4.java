@@ -13,4 +13,10 @@ public class DAY4 {
  * split() : 정규 표현식을 구분자로 해서 부분 문자열 분리
  * 배열에 저장 후 리턴
  */
+
+/**
+ * StringBuffer, StringBuilder 클래스
+ * 문자열 결합 연산자 +
+ * String은 내부의 문자열 수정 불가 -> 대치된 새로운 문자열 리턴
+ */
 }
