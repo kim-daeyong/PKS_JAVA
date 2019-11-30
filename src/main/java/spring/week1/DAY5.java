@@ -9,6 +9,9 @@ public class DAY5{
       System.out.println(str1);
       String str2 = new String(bytes, 6, 4);
       System.out.println(str2);
+
+      //문자로 추출
+      System.out.println(str1.charAt(3));
     }
 
 }
