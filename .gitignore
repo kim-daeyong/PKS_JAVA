@@ -15,7 +15,7 @@
 *.iws
 *.iml
 *.ipr
-*.xml
+workspace.xml
 
 
 HELP.md
