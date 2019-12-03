@@ -32,7 +32,7 @@ public class DAY6 {
 
   public static void main(String[] args) {
     //정규 표현식으로 문자열을 검증하는 방법
-    String regExp = "(02|010)-\\d(3,4)-\\d{4}";
+    String regExp = "(02¦010)-\\d(3,4)-\\d{4}";
     String data = "010-123-4567";
     boolean result = Pattern.matches(regExp, data);
     if(result) {
