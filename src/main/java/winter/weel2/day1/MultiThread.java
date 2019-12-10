@@ -1,4 +1,4 @@
-package winter.weel3.day1;
+package winter.weel2.day1;
 
 public class MultiThread {
     /*
