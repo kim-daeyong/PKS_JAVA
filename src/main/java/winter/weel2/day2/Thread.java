@@ -21,7 +21,7 @@ public class Thread {
 //
 //
 //    });
-
+// 메인스레드 > 스레드 객체 생성 > start() 메소드 호충 > 메인 스레드 실행
 
     //thread.start();
 }
