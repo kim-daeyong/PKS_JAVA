@@ -41,5 +41,6 @@ public class Thread {
     *  Thread.MAX_PRIORITY - 10
     *  .NORM_PRIORITY - 5
     *  .MIN_PRIORITY - 1
+    *  synchronized - 동기화 단하나의 스레드만 실행
      */
 }
